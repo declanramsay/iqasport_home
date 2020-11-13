@@ -155,7 +155,7 @@ const NGB_CONFIG = [
     lat: -40.900558,
     long: 174.885971,
     imageSrc: 'https://iqasport.org/wp-content/uploads/2018/07/New-Zealand_140.png',
-    url: 'https://www.newzealandquidditch.com/'
+    url: 'https://www.newzealandquidditch.org/'
   },
   {
     name: 'Norway',
